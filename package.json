@@ -1,9 +1,10 @@
 {
   "name": "node-js-pdns-api",
-  "version": "1.0",
+  "version": "1.0.0",
   "description": "RESTfull PowerDNS api written in Node JS",
   "author": "Rik Bruggink <mail@rikbruggink.nl>",
   "main": "server.js",
+  "license": "MIT",
   "dependencies": {
     "mysql": "~2.5.2",
     "express": "~4.9.7",
@@ -11,5 +12,4 @@
     "node-uuid": "~1.4.1",
     "express-validator": "~2.6.0"
   }
-  "license": "MIT"
 }
